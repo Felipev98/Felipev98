@@ -1,16 +1,16 @@
-### Hi there 👋
+<h1 align="center">Hola 👋, soy Felipe Vargas</h1>
+<h3 align="center"> Ingeniero Electrónico | Desarrollador Frontend</h3>
+<div align="center">
+<img src="https://user-images.githubusercontent.com/83327665/117597684-184b9180-b114-11eb-9ef5-68ac0c7c0edc.jpg" >
+  </div>
+ <h4 align="center">Soy una persona creativa que constantemente está en busqueda de adquirir nuevos conocimientos y de reforzarlos</h4>
+ 
 
-<!--
-**Felipev98/Felipev98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3>Contáctame:</h3>
+<p>
+  
+  <a href="#" target="blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Felipe" height="30" width="40" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
