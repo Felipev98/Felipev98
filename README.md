@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Felipe Vargas 👨‍💻</h1>
 <h3 align="center"> Electronic Engineer | Front-End Developer</h3>
 <div align="center">
-<img src="https://user-images.githubusercontent.com/83327665/117597684-184b9180-b114-11eb-9ef5-68ac0c7c0edc.jpg" >
+<img src="https://user-images.githubusercontent.com/83327665/121574170-fd5e8c80-c9f3-11eb-9594-e80c8d0a24d1.jpg")
+" >
   </div>
   
 ## ⚡️ Quick Facts
