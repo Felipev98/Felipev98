@@ -12,7 +12,7 @@
 - 🎥 Hobbies other than coding: Play single player videogames , watch movies and Tv shows, read
 
 
-## :coffee: Let's Connect 
+## :coffee: Contact
   
   <a href="https://www.linkedin.com/in/felipe-vargas-6a8768212/" target="blank">
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Felipe" height="30" width="40" />
