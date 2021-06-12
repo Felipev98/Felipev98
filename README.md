@@ -9,7 +9,7 @@
 - 👀 I'm currently looking for new opportunities of job.
 - 🌎 I want to be become a part of a team of developers to change people's lives
 - 💼 I'm currently working on  personal projects
-- 🎥 Hobbies other than coding: Play single player videogames , watch movies and Tv shows, read
+- 🎥 Hobbies other than coding: Play videogames , watch movies and Tv shows, read
 
 
 ## :coffee: Contact
